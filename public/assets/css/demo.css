@@ -1,0 +1,9 @@
+.nav {
+  width: 100%;
+}
+
+.active {
+  transform: translate3d(-8px, 0px, 0px);
+  transition: all 0.5s cubic-bezier(0.29, 1.42, 0.79, 1);
+  
+}
